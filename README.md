@@ -1,2 +1,2 @@
 # Certificate
-Folder ini berisi sertifikat sertifikat pribadi
+Repository ini berisi sertifikat sertifikat pribadi
